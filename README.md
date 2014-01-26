@@ -143,4 +143,7 @@ Já ganha pontos pois seu login é via OAuth, mas eu me inscrevi nele hoje entã
 
 Grupo de Investimento em Altcoins no Facebook: https://www.facebook.com/groups/635650459823972/
 
-> Por favor comentem suas experiências aqui.
+
+##Experiências
+
+> colocar aqui a sua experiencia com eus investimentos em altcoins
