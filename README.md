@@ -20,7 +20,7 @@ Já dentro do sistema, no menu superior possuímos 5 itens:
 - Open Orders
 - Trade History
 
-{<1>}![Menu superior](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_5_53_58_PM.png)
+{<1>}![Menu superior](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_5_53_58_PM.png)
 
 ###Dashboard
 Sessão onde vc tem suas principais informações como: 
@@ -40,7 +40,7 @@ Em Trade é a sessão que mostra todas as altcoins suportadas e qual seu valor r
 - 24hr High: maior valor vendido em 24 horas
 - 24hr Low: menor valor vendido em 24 horas
 
-{<2>}![Dados listados](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_01_44_PM.png)
+{<2>}![Dados listados](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_01_44_PM.png)
 
 ###Balances
 Aqui é listada todas as moedas ativas e em quais e quanto você possui em cada. Os dados listados são:
@@ -53,7 +53,7 @@ Aqui é listada todas as moedas ativas e em quais e quanto você possui em cada.
 - Actions: Acões
 
 
-{<3>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_29_32_PM.png)
+{<3>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_29_32_PM.png)
 
 ###Open Orders
 Nessa área nos mostra a listagem das suas ordens de compra e venda abertas. Mostrando os seguintes dados:
@@ -64,7 +64,7 @@ Nessa área nos mostra a listagem das suas ordens de compra e venda abertas. Mos
 - Total: valor total
 - Action: link para cancelar
 
-{<4>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_28_41_PM.png)
+{<4>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_28_41_PM.png)
 
 ###Trade History
 Mostra suas últimas 200 transações, listando elas com os seguintes dados:
@@ -75,7 +75,7 @@ Mostra suas últimas 200 transações, listando elas com os seguintes dados:
 - Fee: valor total pago ao Cryptsy como taxa
 - Net Total: Total comprado/vendido + Fee
 
-{<5>}![Dados listados no Trade History](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_27_46_PM.png)
+{<5>}![Dados listados no Trade History](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_27_46_PM.png)
 
 ##Como comprar/vender?
 Para iniciarmos nosso investimentos em altcoins precisamos enviar ou Litecoins ou Bitcoins para a carteira gerada pelo Cryptsy, para lá no sistema poder ter saldo e começar o jogo.
@@ -86,7 +86,7 @@ Para fazer isso EU fiz o seguinte:
 
 Depois que suas moedas tenham entrado no sistema você pode vai clickar no botão na coluna de Actions, na linha da moeda que você quer comprar, no nosso caso será na linha dos Bitcoins, clickando no botão BTC Actions irá abrir um menu de contexto como esse:
 
-{<6>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_37_23_PM.png)
+{<6>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_37_23_PM.png)
 
 Para depositarmos click em **Deposit / Autosell BTC** nisso abrirá uma modal com o endereço da sua carteira de Bitcoins dentro do Cryptsy, é esse endereço que vc usará para transferir seus Bitcoins.
 
@@ -94,19 +94,19 @@ Depois de copiar seu endereço vá até o sistema onde você possui seus Bitcoin
 
 Faça o login no MercadoBitcoin e vá em Retirada.
 
-{<7>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_41_09_PM.png)
+{<7>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_41_09_PM.png)
 
 Depois de clickar em Retirar é só aguardar alguns minutos até a rede Bitcoin validar a transação.
 
 Após sua espera volte no Cryptsy e veja em Balances se caiu suas moedas.
 
-{<8>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_43_43_PM.png)
+{<8>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_43_43_PM.png)
 
 *sim eu coloquei pouco lá ainda porque estava sem tempo, mas já comprei mais BTCs para enviar para lá*
 
 Agora que você já possui saldo no Cryptsy pode inciar a compra de diversas moedas listadas. Para isso vá em Trade e click no Market desejado, nesse exemplo mostrarei utilizando o [DogeCoin](http://dogecoin.com/). Logo abaixo do gráfico existem 2 boxes dividios em: Buy e Sell.
 
-{<9>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_47_50_PM.png)
+{<9>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_6_47_50_PM.png)
 
 
 - Ammount Doge: quantidade de moedas, mínimo de 100 pois o valor é muito baixo.
@@ -133,10 +133,10 @@ Caso você tenha bastante tempo, vários amigos meus fazem isso, você compra va
 
 Exemplo:
 Comprei 10.000 a 129 cada
-{<10>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_7_17_19_PM.png)
+{<10>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_7_17_19_PM.png)
 
 E vendi no mesmo dia 220 cada
-{<11>}![](/content/images/2014/Jan/Screen_Shot_2014_01_26_at_7_17_29_PM.png)
+{<11>}![](http://nomadev.com.br/content/images/2014/Jan/Screen_Shot_2014_01_26_at_7_17_29_PM.png)
 
 #[CoinedUp](https://coinedup.com/)
 Já ganha pontos pois seu login é via OAuth, mas eu me inscrevi nele hoje então ainda não posso falar muita coisa, mas o post será atualizado quando eu já estiver utilizando-o.
