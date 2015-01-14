@@ -2,7 +2,7 @@ Bom primeiramente você sabe o que são [Altcoins](http://altcoins.com/)?
 
 Altcoins são cryptomoedas alternativas ao [Bitcoin](http://bitcoin.org/) que funcionam de forma semelhante, descentralizada, criptográfica, ponto-a-ponto, etc. O que muda normalmente é o algoritmo de criptografia que em vez do [SHA-256](http://en.wikipedia.org/wiki/SHA-2) é usado [scrypt](http://en.wikipedia.org/wiki/Scrypt) ou algum outra criptografia híbrida. Bom nesse post ainda não comentarei entre as diferenças entre essas 2 criptografias, o foco é como comprar e vender em um só lugar e para isso eu uso 2 sistemas: [Cryptsy]((https://www.cryptsy.com/users/register?refid=49274) e [CoinedUp](https://coinedup.com/).
 
-#[Cryptsy]((https://www.cryptsy.com/users/register?refid=49274)
+#[Cryptsy](https://www.cryptsy.com/users/register?refid=49274)
 
 O sistema é bem interessante pois pelo que percebi é uma [Single Page Application](http://en.wikipedia.org/wiki/Single-page_application) usando fortemente jquery e acredito que Node.js também pois ele usa Socket.io:
   
